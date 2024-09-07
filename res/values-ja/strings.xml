@@ -4,8 +4,8 @@
 
     <string name="Players">"プレイヤー"</string>
     <string name="Control_">"コントロール方式："</string>
-    <string name="CLOSE">"閉じる"</string>
-    <string name="Stick_Size_">"スティックのサイズ : "</string>
+    <string name="CLOSE">"閉じる"<string>
+    <string name="Stick_Size_">"ステかはなのサイズ : "</string>
     <string name="Stick_Margin_">"スティックのスペース"</string>
     <string name="Button_Size_">"ボタンのサイズ："</string>
     <string name="Button_Margin_">"ボタンのスペース："</string>
