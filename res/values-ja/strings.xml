@@ -227,7 +227,8 @@
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"開始から30秒以内に5個の青いブラックホールを食う"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"開始から1分以内に5000点達成"</string>
     <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"再び始めた前のゲームで最後にあなたにブラックホールを当てたプレイヤーにブラックホールを当てる"</string>
-    <string name="Absorb_5_doges_without_restarting">"再び開始せず5人の犬を食う"</string>
+    <string name="Absorb_5_doges_without_restarting">"再び開始せず
+        "</string>
 
     <string name="Friends">"同僚"</string>
     <string name="Dots_Eaten_">"食ったドット : "</string>
